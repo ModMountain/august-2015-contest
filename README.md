@@ -6,3 +6,8 @@ We're currently working on coding some nice little addons to help the competitio
 - In-game reviewing, no need to visit Mod Mountain's website
 - Server hopper so people can quickly flick through the different gamemodes
 - Automatic error reporter because developers will not have access to the Mod Mountain servers
+
+## Recommended Resources and Assets
+Here is a small list of assets that you can use in your gamemode or DLC, royalty free.
+### Music and Sound
+- 10GB of game music - http://sonniss.com/GameAudioGDC.torrent
