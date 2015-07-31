@@ -8,6 +8,17 @@ We're currently working on coding some nice little addons to help the competitio
 - Automatic error reporter because developers will not have access to the Mod Mountain servers
 
 ## Recommended Resources and Assets
-Here is a small list of assets that you can use in your gamemode or DLC, royalty free.
+Here is a small list of assets that you can use in your gamemode or DLC. Please make sure you check the licenses on any assets you use!
+
+### General
+- Game Assets Subreddit - https://www.reddit.com/r/gameassets/top/
+
 ### Music and Sound
 - 10GB of game music - http://sonniss.com/GameAudioGDC.torrent
+
+### User Interface
+- Generic UI Pack - http://www.kenney.nl/assets/ui-pack
+- RPG UI Pack - http://www.kenney.nl/assets/ui-pack-rpg-expansion
+- Sci-fi UI Pack - http://www.kenney.nl/assets/ui-pack-space-expansion
+- Pixel UI Pack - http://www.kenney.nl/assets/pixel-ui-pack
+- UI Audio Pack - http://www.kenney.nl/assets/ui-audio
