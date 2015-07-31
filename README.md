@@ -22,3 +22,6 @@ Here is a small list of assets that you can use in your gamemode or DLC. Please 
 - Sci-fi UI Pack - http://www.kenney.nl/assets/ui-pack-space-expansion
 - Pixel UI Pack - http://www.kenney.nl/assets/pixel-ui-pack
 - UI Audio Pack - http://www.kenney.nl/assets/ui-audio
+
+### Particles
+- https://www.reddit.com/r/gamedev/comments/2edttx/free_to_use_cc0_smoke_explosion_and_fart/
