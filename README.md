@@ -15,6 +15,7 @@ Here is a small list of assets that you can use in your gamemode or DLC. Please 
 
 ### Music and Sound
 - 10GB of game music - http://sonniss.com/GameAudioGDC.torrent
+- Voiceover Pack - https://www.reddit.com/r/gamedev/comments/3g4cjk/free_voiceover_pack_with_40_common_lines_in_games/
 
 ### User Interface
 - Generic UI Pack - http://www.kenney.nl/assets/ui-pack
